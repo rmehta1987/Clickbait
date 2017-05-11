@@ -1,6 +1,6 @@
 # Clickbait
 
 
-# Presentation Index
+# Analysis via Topic Modeling
 
-* [01_Analysis_Part1](https://nbviewer.jupyter.org/github/rmehta1987/Clickbait/blob/master/Clickbait.ipynb)
+* [Topic Modeling Analysis](http://nbviewer.jupyter.org/github/rmehta1987/Clickbait/blob/master/Clickbait.ipynb)
